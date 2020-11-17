@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\REI DELAS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\REI DELAS\\.nuget\\packages"
+    ]
+  }
+}
